@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/ChirayuSakarkar/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/index.html)
+# To see the output [CLICK HERE](https://chirayusakarkar.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/index.html)
